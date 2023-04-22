@@ -1,0 +1,17 @@
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\obj\Debug\net7.0\GPT.Application.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\obj\Debug\net7.0\GPT.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\obj\Debug\net7.0\GPT.Application.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\obj\Debug\net7.0\GPT.Application.AssemblyInfo.cs
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\obj\Debug\net7.0\GPT.Application.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\bin\Debug\net7.0\GPT.Application.deps.json
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\bin\Debug\net7.0\GPT.Application.runtimeconfig.json
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\bin\Debug\net7.0\GPT.Application.dll
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\bin\Debug\net7.0\GPT.Application.pdb
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\bin\Debug\net7.0\GPT.Domain.dll
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\bin\Debug\net7.0\GPT.Domain.pdb
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\obj\Debug\net7.0\GPT.Application.csproj.CopyComplete
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\obj\Debug\net7.0\GPT.Application.dll
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\obj\Debug\net7.0\refint\GPT.Application.dll
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\obj\Debug\net7.0\GPT.Application.pdb
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\obj\Debug\net7.0\GPT.Application.genruntimeconfig.cache
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Application\obj\Debug\net7.0\ref\GPT.Application.dll

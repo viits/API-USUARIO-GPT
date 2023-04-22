@@ -1,0 +1,14 @@
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\bin\Debug\net7.0\GPT.Domain.deps.json
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\bin\Debug\net7.0\GPT.Domain.runtimeconfig.json
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\bin\Debug\net7.0\GPT.Domain.dll
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\bin\Debug\net7.0\GPT.Domain.pdb
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\obj\Debug\net7.0\GPT.Domain.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\obj\Debug\net7.0\GPT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\obj\Debug\net7.0\GPT.Domain.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\obj\Debug\net7.0\GPT.Domain.AssemblyInfo.cs
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\obj\Debug\net7.0\GPT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\obj\Debug\net7.0\GPT.Domain.dll
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\obj\Debug\net7.0\refint\GPT.Domain.dll
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\obj\Debug\net7.0\GPT.Domain.pdb
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\obj\Debug\net7.0\GPT.Domain.genruntimeconfig.cache
+C:\Users\ThinkPad\Documents\Estudos\EstudoNet\APIGPT\GPTAPI\GPT.Domain\obj\Debug\net7.0\ref\GPT.Domain.dll
